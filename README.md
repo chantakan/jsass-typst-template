@@ -43,7 +43,7 @@ VS Code で使う場合は [Tinymist](https://marketplace.visualstudio.com/items
 
 ## ライセンス
 
-テンプレート本体: MIT License
+テンプレート本体: [MIT License](./LICENSE)
 
 同梱フォント（`fonts/` 内にライセンス全文あり）:
 - [Noto Serif CJK JP](https://github.com/notofonts/noto-cjk) — SIL Open Font License 1.1
